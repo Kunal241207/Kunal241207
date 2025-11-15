@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Kunal+Gupta;Web+Developer;Gamer+%26+Creator&center=true&width=500&height=50)](https://git.io/typing-svg)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&pause=900&color=00A3FF&center=true&vCenter=true&width=900&lines=Hi+!%2C+I'm+Kunal+Gupta+-+Web+Developer+%7C+AI+Enthusiast+%7C+Curious+Learner" />
+</p>
 
 # 💫 About Me:
 I’m a passionate web developer who loves building clean, functional, and user-friendly digital experiences. I enjoy exploring frontend technologies, designing intuitive interfaces, and learning how to bring ideas to life through code.<br>I’m currently improving my JavaScript, working on personal projects, and expanding my full-stack skills step by step.
@@ -16,6 +17,7 @@ I’m a passionate web developer who loves building clean, functional, and user-
 ![](https://nirzak-streak-stats.vercel.app/?user=Kunal241207&theme=date_night&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal241207&theme=date_night&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+# 🐍 Snake Eating My Contributions
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
