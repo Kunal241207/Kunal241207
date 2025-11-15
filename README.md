@@ -6,7 +6,6 @@
 I’m a passionate web developer who loves creating clean, functional, and user-friendly digital experiences. I enjoy frontend technologies, intuitive UI design, and learning how to bring ideas to life through code.  
 Currently improving JavaScript, working on personal projects, and slowly expanding into full-stack development.
 
-<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dist/line.svg" width="100%"/>
 
 ## 🌐 Socials:
 <p align="center">
@@ -14,8 +13,6 @@ Currently improving JavaScript, working on personal projects, and slowly expandi
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dist/line.svg" width="100%"/>
 
 # 💻 Tech Stack:
 <p align="center">
@@ -25,7 +22,6 @@ Currently improving JavaScript, working on personal projects, and slowly expandi
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dist/line.svg" width="100%"/>
 
 # 📊 GitHub Stats:
 <p align="center">
@@ -37,21 +33,18 @@ Currently improving JavaScript, working on personal projects, and slowly expandi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal241207&theme=date_night&hide_border=true&layout=compact"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dist/line.svg" width="100%"/>
 
 # 🐍 Snake Eating My Contributions
 <p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dist/line.svg" width="100%"/>
 
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dist/line.svg" width="100%"/>
 
 ### 🔝 Top Contributed Repo
 <p align="center">
