@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=42&duration=2500&pause=600&color=FF8A00&center=true&vCenter=true&width=850&height=120&lines=Hi+!%2C+I'm+Kunal+Gupta;Web+Developer+%7C+AI+Enthusiast+%7C+Curious+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=39&duration=2500&pause=600&color=FF8A00&center=true&vCenter=true&width=850&height=120&lines=Hi+!%2C+I'm+Kunal+Gupta;Web+Developer+%7C+AI+Enthusiast+%7C+Curious+Learner" />
 </p>
 
 # 💫 About Me:
@@ -66,7 +66,7 @@ Currently improving JavaScript, working on personal projects, and slowly expandi
 # 🧑🏻‍💻 Hacktoberfest 2025
 [![An image of @kunal241207's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kunal241207)](https://holopin.io/@kunal241207)
 
---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=f78d1e&height=120&section=footer"/>
 </p>
