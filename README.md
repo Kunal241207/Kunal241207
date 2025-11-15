@@ -3,8 +3,8 @@
 </p>
 
 # 💫 About Me:
-I’m a passionate web developer who loves creating clean, functional, and user-friendly digital experiences. I enjoy frontend technologies, intuitive UI design, and learning how to bring ideas to life through code.  
-Currently improving JavaScript, working on personal projects, and slowly expanding into full-stack development.
+<p align="center">I’m a passionate web developer who loves creating clean, functional, and user-friendly digital experiences. I enjoy frontend technologies, intuitive UI design, and learning how to bring ideas to life through code.  
+Currently improving JavaScript, working on personal projects, and slowly expanding into full-stack development.</p>
 
 
 ## 🌐 Socials:
@@ -16,7 +16,7 @@ Currently improving JavaScript, working on personal projects, and slowly expandi
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,github" />
 </p>
 
 <p align="center">
