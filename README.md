@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Rubik+Glitch&size=30&duration=2600&pause=700&color=FF00CC&center=true&vCenter=true&width=850&height=120&lines=Hi+!%2C+I'm+Kunal+Gupta;Web+Developer+%7C+AI+Enthusiast+%7C+Curious+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=32&duration=3000&pause=800&color=FF8A00&center=true&vCenter=true&width=850&height=120&lines=Hi+!%2C+I'm+Kunal+Gupta;Web+Developer+%7C+AI+Enthusiast+%7C+Curious+Learner" />
 </p>
 
 # 💫 About Me:
