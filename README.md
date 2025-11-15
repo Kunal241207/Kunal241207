@@ -12,6 +12,10 @@ Hi, I’m Kunal Gupta<br><br><br>I’m a passionate web developer who loves buil
 ![](https://github-readme-stats.vercel.app/api?username=Kunal241207&theme=date_night&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kunal241207&theme=date_night&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal241207&theme=date_night&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+# Snake :
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
