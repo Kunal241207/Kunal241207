@@ -1,5 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Kunal+Gupta;Web+Developer;Gamer+%26+Creator&center=true&width=500&height=50)](https://git.io/typing-svg)
+
+
 # 💫 About Me:
-Hi, I’m Kunal Gupta<br><br><br>I’m a passionate web developer who loves building clean, functional, and user-friendly digital experiences. I enjoy exploring frontend technologies, designing intuitive interfaces, and learning how to bring ideas to life through code.<br>I’m currently improving my JavaScript, working on personal projects, and expanding my full-stack skills step by step.
+I’m a passionate web developer who loves building clean, functional, and user-friendly digital experiences. I enjoy exploring frontend technologies, designing intuitive interfaces, and learning how to bring ideas to life through code.<br>I’m currently improving my JavaScript, working on personal projects, and expanding my full-stack skills step by step.
 
 
 ## 🌐 Socials:
@@ -12,7 +15,7 @@ Hi, I’m Kunal Gupta<br><br><br>I’m a passionate web developer who loves buil
 ![](https://github-readme-stats.vercel.app/api?username=Kunal241207&theme=date_night&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kunal241207&theme=date_night&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal241207&theme=date_night&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-# Snake :
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
