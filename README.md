@@ -32,6 +32,8 @@ Currently improving JavaScript, working on personal projects, and slowly expandi
 </p>
 
 
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
@@ -53,13 +55,14 @@ Currently improving JavaScript, working on personal projects, and slowly expandi
 ---
 
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=Kunal241207&icon=0&color=0)](https://visitcount.itsvg.in)
-
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Kunal241207&icon=0&color=0" />
+  </a>
 </div>
 
 # 🧑🏻‍💻 Hacktoberfest 2025
 [![An image of @kunal241207's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kunal241207)](https://holopin.io/@kunal241207)
+
 
 
 <div align="center">
