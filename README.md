@@ -6,6 +6,7 @@
 <p align="center">I’m a passionate web developer who loves creating clean, functional, and user-friendly digital experiences. I enjoy frontend technologies, intuitive UI design, and learning how to bring ideas to life through code.  
 Currently improving JavaScript, working on personal projects, and slowly expanding into full-stack development.</p>
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 🌐 Socials:
 <p align="center">
@@ -17,13 +18,6 @@ Currently improving JavaScript, working on personal projects, and slowly expandi
 # 💻 Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,github" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
 
 
