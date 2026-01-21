@@ -32,10 +32,11 @@ Currently improving JavaScript, working on personal projects, and slowly expandi
 </p>
 
 
-# 🐍 Snake Eating My Contributions
-<p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 
 ### ✍️ Random Dev Quote
@@ -61,7 +62,8 @@ Currently improving JavaScript, working on personal projects, and slowly expandi
 [![An image of @kunal241207's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kunal241207)](https://holopin.io/@kunal241207)
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f78d1e&height=120&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
 
