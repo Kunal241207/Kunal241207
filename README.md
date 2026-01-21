@@ -6,7 +6,7 @@
 <p align="center">I’m a passionate web developer who loves creating clean, functional, and user-friendly digital experiences. I enjoy frontend technologies, intuitive UI design, and learning how to bring ideas to life through code.  
 Currently improving JavaScript, working on personal projects, and slowly expanding into full-stack development.</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" height="230px" width="100%" />
 
 ## 🌐 Socials:
 <p align="center">
@@ -32,9 +32,9 @@ Currently improving JavaScript, working on personal projects, and slowly expandi
 </p>
 
 
---
+---
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
