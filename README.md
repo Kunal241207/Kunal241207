@@ -17,7 +17,7 @@ Currently improving JavaScript, working on personal projects, and slowly expandi
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,github" />
 </p>
 
 
@@ -49,7 +49,7 @@ Currently improving JavaScript, working on personal projects, and slowly expandi
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Kunal241207&limit=5&theme=rose_pine&combine_all_yearly_contributions=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Kunal241207&limit=5&theme=rose_pine&combine_all_yearly_contributions=true" width="90%" />
 </p>
 
 ---
@@ -59,6 +59,7 @@ Currently improving JavaScript, working on personal projects, and slowly expandi
     <img src="https://visitcount.itsvg.in/api?id=Kunal241207&icon=0&color=0" />
   </a>
 </div>
+
 
 # 🧑🏻‍💻 Hacktoberfest 2025
 [![An image of @kunal241207's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kunal241207)](https://holopin.io/@kunal241207)
