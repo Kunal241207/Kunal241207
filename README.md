@@ -32,12 +32,12 @@ Currently improving JavaScript, working on personal projects, and slowly expandi
 </p>
 
 
----
+--
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
 </picture>
 
 
@@ -46,20 +46,7 @@ Currently improving JavaScript, working on personal projects, and slowly expandi
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Kunal241207&limit=5&theme=rose_pine&combine_all_yearly_contributions=true" width="90%" />
-</p>
-
 ---
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Kunal241207&icon=0&color=0" />
-  </a>
-</div>
-
 
 # 🧑🏻‍💻 Hacktoberfest 2025
 [![An image of @kunal241207's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kunal241207)](https://holopin.io/@kunal241207)
