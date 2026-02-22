@@ -27,17 +27,13 @@ Currently improving JavaScript, working on personal projects, and slowly expandi
 
 # 📊 GitHub Stats:
 <p align="center">
-  <a href="https://github.com/Kunal241207">
-    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kunal241207&cache_seconds=7200&theme=dark&hide_border=true&show_icons=true" />
-  </a>
+  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kunal241207&cache_seconds=7200&theme=dark&hide_border=true&show_icons=true" />
   <img src="https://streak-stats.demolab.com/?user=Kunal241207&theme=date_night&hide_border=true&cache_seconds=86400" alt="Kunal241207's GitHub Streak" width="49%" />
 </p>
 
 
 <p align="center">
-  <a href="https://github.com/Kunal241207">
-    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kunal241207&langs_count=8&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
-  </a>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kunal241207&langs_count=8&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 
