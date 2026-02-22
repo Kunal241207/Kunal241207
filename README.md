@@ -27,12 +27,17 @@ Currently improving JavaScript, working on personal projects, and slowly expandi
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kunal241207&theme=date_night&show_icons=true&hide_border=true&cache_seconds=86400"/>
-  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=Kunal241207&theme=date_night&hide_border=true"/>
+  <a href="https://github.com/Kunal241207">
+    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kunal241207&cache_seconds=7200&theme=dark&hide_border=true&show_icons=true" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Kunal241207&theme=date_night&hide_border=true&cache_seconds=86400" alt="Kunal241207's GitHub Streak" width="49%" />
 </p>
 
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal241207&theme=date_night&layout=compact&hide_border=true&cache_seconds=86400"/>
+  <a href="https://github.com/Kunal241207">
+    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kunal241207&langs_count=8&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
 
