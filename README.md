@@ -27,12 +27,12 @@ Currently improving JavaScript, working on personal projects, and slowly expandi
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kunal241207&theme=date_night&hide_border=true&show_icons=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kunal241207&theme=date_night&show_icons=true&hide_border=true&cache_seconds=86400"/>
   <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=Kunal241207&theme=date_night&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal241207&theme=date_night&hide_border=true&layout=compact"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal241207&theme=date_night&layout=compact&hide_border=true&cache_seconds=86400"/>
 </p>
 
 
