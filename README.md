@@ -20,10 +20,6 @@ Currently improving JavaScript, working on personal projects, and slowly expandi
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,python,django,figma,github" />
 </p>
 
-## Currently learning:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,react,django" />
-</p>
 
 # 📊 GitHub Stats:
 <p align="center">
