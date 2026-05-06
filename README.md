@@ -13,11 +13,17 @@ Currently improving JavaScript, working on personal projects, and slowly expandi
   <a href="https://www.linkedin.com/in/kunal-gupta-2285b4378/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/u/kr4tigya_0G-/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" height="35" />
+  </a>
+  <a href="https://codeforces.com/profile/Kunal_G127" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" height="35" />
+  </a>
 </p>
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,python,django,figma,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,python,django,cpp,figma,github" />
 </p>
 
 
