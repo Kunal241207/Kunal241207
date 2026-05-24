@@ -36,9 +36,18 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-    <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg"
+    />
+    <img
+      alt="Contribution Game"
+      src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg"
+    />
   </picture>
 </p>
 
