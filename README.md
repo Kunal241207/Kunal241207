@@ -5,8 +5,33 @@
 
 ## ❖ About Me
 <p align="center">I'm a web developer passionate about building things that look great and work even better. I obsess over intuitive UI, pixel-perfect layouts, and the smooth interactions that make a design finally click. Right now I'm diving into MERN stack, working on personal projects, and making my way from frontend into full-stack development.</p>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" height="460px" width="100%" />
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github.com/user-attachments/assets/ddc9ebe9-750d-4da2-8021-347d18005011"
+    >
+    <img
+      alt="banner"
+      src="https://github.com/user-attachments/assets/ddc9ebe9-750d-4da2-8021-347d18005011"
+      width="98%"
+      height="520px"
+    >
+  </picture>
+</p>
+
+### ✥ Current Goals
+
+- [ ] Complete MERN
+- [ ] Learn Python backend (FastAPI/Django)
+- [ ] Learn Go, Redis & cloud infrastructure (Docker, Kubernetes, CI/CD)
+- [ ] Build great full-stack projects
 
 ## ❖ Socials
 <p align="center">
@@ -17,7 +42,7 @@
 
 ## ❖ Toolkit
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,python,django,cpp,figma,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,react,tailwind,python,django,cpp,figma,github" />
 </p>
 
 
