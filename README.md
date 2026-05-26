@@ -21,7 +21,7 @@
       alt="banner"
       src="https://github.com/user-attachments/assets/ddc9ebe9-750d-4da2-8021-347d18005011"
       width="98%"
-      height="520px"
+      height="490px"
     >
   </picture>
 </p>
