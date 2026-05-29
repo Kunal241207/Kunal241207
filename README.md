@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=90&section=header&animation=fadeIn" width="100%"/>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=39&duration=2500&pause=600&color=FF8A00&center=true&vCenter=true&width=850&height=120&lines=Hi+!%2C+I'm+Kunal+Gupta;Welcome+to+my+profile!!;Web+Developer+%7C+AI+Enthusiast+%7C+Curious+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=40&duration=2500&pause=600&color=FF8A00&center=true&vCenter=true&width=700&height=100&lines=Hi+!%2C+I'm+Kunal+Gupta;Welcome+to+my+profile!!;Web+Dev+%7C+AI+Enthusiast+%7C+Algorithmist" />
 </p>
 
 ## ❖ About Me
@@ -21,7 +21,6 @@
       alt="banner"
       src="https://github.com/user-attachments/assets/ddc9ebe9-750d-4da2-8021-347d18005011"
       width="98%"
-      height="92%"
     >
   </picture>
 </p>
@@ -48,13 +47,9 @@
 
 ## ❖ GitHub Stats
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kunal241207&cache_seconds=7200&theme=dark&hide_border=true&show_icons=true" />&nbsp;&nbsp;&nbsp;
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kunal241207&cache_seconds=7200&theme=dark&hide_border=true&show_icons=true" />&thinsp;
   <img src="https://streak-stats.vercel.app?user=Kunal241207&theme=dark&hide_border=true&cache_seconds=86400" alt="Kunal241207's GitHub Streak" width="49%" />
-</p>
-
-
-<p align="center">
-  <img width="43%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kunal241207&langs_count=8&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img width="48.5%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kunal241207&langs_count=8&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -76,11 +71,6 @@
   </picture>
 </p>
 
-
-### ✦ Today's Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
 
 ---
 
