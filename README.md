@@ -21,7 +21,7 @@
       alt="banner"
       src="https://github.com/user-attachments/assets/ddc9ebe9-750d-4da2-8021-347d18005011"
       width="98%"
-      height="490px"
+      height="92%"
     >
   </picture>
 </p>
@@ -49,7 +49,7 @@
 ## ❖ GitHub Stats
 <p align="center">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kunal241207&cache_seconds=7200&theme=dark&hide_border=true&show_icons=true" />&nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Kunal241207&theme=dark&hide_border=true&cache_seconds=86400" alt="Kunal241207's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.vercel.app?user=Kunal241207&theme=dark&hide_border=true&cache_seconds=86400" alt="Kunal241207's GitHub Streak" width="49%" />
 </p>
 
 
@@ -79,7 +79,7 @@
 
 ### ✦ Today's Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
