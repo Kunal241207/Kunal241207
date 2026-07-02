@@ -27,8 +27,7 @@
 
 ### ✥ Current Goals
 
-- [ ] Complete MERN
-- [ ] Learn Python backend (FastAPI/Django)
+- [x] Complete MERN
 - [ ] Learn Go, Redis & cloud infrastructure (Docker, Kubernetes, CI/CD)
 - [ ] Build great full-stack projects
 
@@ -41,7 +40,7 @@
 
 ## ❖ Toolkit
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,react,tailwind,python,django,cpp,figma,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,express,nodejs,mongo,python,cpp,go,figma,github" />
 </p>
 
 
