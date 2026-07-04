@@ -40,7 +40,7 @@
 
 ## ❖ Toolkit
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,express,nodejs,mongo,python,cpp,go,figma,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,express,nodejs,mongo,supabase,python,cpp,go,figma,github" />
 </p>
 
 
