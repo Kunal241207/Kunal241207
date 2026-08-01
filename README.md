@@ -28,8 +28,8 @@
 ### ✥ Current Goals
 
 - [x] Complete MERN
+- [x] Build a great MERN project
 - [ ] Learn Go, Redis & cloud infrastructure (Docker, Kubernetes, CI/CD)
-- [ ] Build great full-stack projects
 
 ## ❖ Socials
 <p align="center">
