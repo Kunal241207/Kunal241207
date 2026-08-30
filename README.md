@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=90&section=header&animation=fadeIn" width="100%"/>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=40&duration=2500&pause=600&color=FF8A00&center=true&vCenter=true&width=700&height=100&lines=Hi+!%2C+I'm+Kunal+Gupta;Welcome+to+my+profile!!;Web+Dev+%7C+AI+Enthusiast+%7C+Algorithmist" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=40&duration=2500&pause=600&color=FF8A00&center=true&vCenter=true&width=700&height=100&lines=Hi+!+I'm+Kunal+Gupta;Welcome+to+my+profile!!;Web+Dev+%7C+AI+Enthusiast+%7C+Algorithmist" />
 </p>
 
 ## ❖ About Me
-<p align="center">I'm a full stack developer passionate about building things that look great and work even better. I obsess over intuitive UI, pixel-perfect layouts, and the smooth interactions that make a design finally click. I work across the MERN stack end-to-end, and I'm now pushing deeper into systems-level skills — infrastructure, scalability, and everything that keeps a full-stack app running well in production.</p>
+
+<p align="center">
+  I'm a full-stack developer who enjoys turning ideas into polished, production-ready products. I care about thoughtful UI, clean architecture, and understanding what happens beyond the application layer. After building across the web stack, I'm now going deeper into infrastructure, distributed systems, and the engineering behind scalable software.
+</p>
 <br/>
 
 <p align="center">
@@ -27,13 +29,14 @@
 
 ### ✥ Current Goals
 
-- [x] Complete MERN
-- [x] Build few great projects
+- [x] Complete MERN development
+- [x] Ship production projects
 - [ ] Learn Go, Redis & cloud infrastructure (Docker, K8s, CI/CD)
 - [ ] Get comfortable with system design & scalability
 
 ## ❖ Socials
 <p align="center">
+  <a href="https://its-me-kunal.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-D74444?style=for-the-badge&logo=icloud&logoColor=white" height="35"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kunal-gupta-2285b4378/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/kr4tigya_0G-/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="35"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/Kunal_G127" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" height="35"/></a>
@@ -49,7 +52,7 @@
 <p align="center">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kunal241207&cache_seconds=7200&theme=dark&hide_border=true&show_icons=true" />&thinsp;
   <img src="https://streak-stats.vercel.app?user=Kunal241207&theme=dark&hide_border=true&cache_seconds=86400" alt="Kunal241207's GitHub Streak" width="49%" />
-  <img width="46.5%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kunal241207&langs_count=6&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img width="46%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kunal241207&langs_count=6&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -71,9 +74,14 @@
   </picture>
 </p>
 
+<p align="center">
+  <sub>
+    <img src="https://count.getloli.com/@Kunal241207?name=Kunal241207&theme=minecraft&scale=0.6&pixelated=1&darkmode=auto" alt="profile_visits" />
+  </sub>
+</p>
+<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-
 
