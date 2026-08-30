@@ -4,7 +4,7 @@
 </p>
 
 ## ❖ About Me
-<p align="center">I'm a web developer passionate about building things that look great and work even better. I obsess over intuitive UI, pixel-perfect layouts, and the smooth interactions that make a design finally click. Right now I'm diving into MERN stack, working on personal projects, and making my way from frontend into full-stack development.</p>
+<p align="center">I'm a full stack developer passionate about building things that look great and work even better. I obsess over intuitive UI, pixel-perfect layouts, and the smooth interactions that make a design finally click. I work across the MERN stack end-to-end, and I'm now pushing deeper into systems-level skills — infrastructure, scalability, and everything that keeps a full-stack app running well in production.</p>
 <br/>
 
 <p align="center">
@@ -28,8 +28,9 @@
 ### ✥ Current Goals
 
 - [x] Complete MERN
-- [x] Build a great MERN project
-- [ ] Learn Go, Redis & cloud infrastructure (Docker, Kubernetes, CI/CD)
+- [x] Build few great projects
+- [ ] Learn Go, Redis & cloud infrastructure (Docker, K8s, CI/CD)
+- [ ] Get comfortable with system design & scalability
 
 ## ❖ Socials
 <p align="center">
@@ -40,7 +41,7 @@
 
 ## ❖ Toolkit
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,express,nodejs,mongo,supabase,python,cpp,go,figma,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,express,nodejs,mongo,supabase,postgres,python,cpp,go,figma" />
 </p>
 
 
@@ -48,7 +49,7 @@
 <p align="center">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kunal241207&cache_seconds=7200&theme=dark&hide_border=true&show_icons=true" />&thinsp;
   <img src="https://streak-stats.vercel.app?user=Kunal241207&theme=dark&hide_border=true&cache_seconds=86400" alt="Kunal241207's GitHub Streak" width="49%" />
-  <img width="48.5%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kunal241207&langs_count=8&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img width="46.5%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kunal241207&langs_count=6&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -69,13 +70,6 @@
     />
   </picture>
 </p>
-
-
----
-
-## ◈ Hacktoberfest 2025
-[![An image of @kunal241207's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kunal241207)](https://holopin.io/@kunal241207)
-
 
 
 <div align="center">
