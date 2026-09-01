@@ -74,13 +74,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <sub>
-    <img src="https://count.getloli.com/@Kunal241207?name=Kunal241207&theme=minecraft&scale=0.6&pixelated=1&darkmode=auto" alt="profile_visits" />
-  </sub>
-</p>
-<br/>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
