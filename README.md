@@ -50,9 +50,26 @@
 
 ## ❖ GitHub Stats
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kunal241207&cache_seconds=7200&theme=dark&hide_border=true&show_icons=true" />&thinsp;
-  <img src="https://streak-stats.vercel.app?user=Kunal241207&theme=dark&hide_border=true&cache_seconds=86400" alt="Kunal241207's GitHub Streak" width="49%" />
-  <img width="46%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kunal241207&langs_count=6&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Kunal241207&cache_seconds=7200&theme=dark&hide_border=true&show_icons=true">
+    <img width="48%"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kunal241207&cache_seconds=7200&theme=default&show_icons=true"
+      alt="GitHub Stats">
+  </picture>&#8202;<picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.vercel.app?user=Kunal241207&theme=dark&hide_border=true&cache_seconds=86400">
+    <img width="48%"
+      src="https://streak-stats.vercel.app?user=Kunal241207&theme=default&cache_seconds=86400"
+      alt="GitHub Streak">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kunal241207&langs_count=6&layout=compact&theme=dark&hide_border=true">
+    <img width="44%"
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kunal241207&langs_count=6&layout=compact&theme=default"
+      alt="Top Languages">
+  </picture>
 </p>
 
 ---
